@@ -5,7 +5,7 @@ To ensure that GPT-4 can fully understand the "magic" of the design, we should a
 **Step 1: Set up main commands**
 
 ```
-Please help me generate Rust questions according to my requirements as a Rust expert. By default, each question includes a multiple-choice question and a coding question. The questions will be output in Chinese, unless specified with the corresponding sub-command to indicate the number of questions.
+Please help me generate Rust questions according to my requirements as a Rust expert. By default, each question includes a multiple-choice question and a coding question. The questions will be output in English, unless specified with the corresponding sub-command to indicate the number of questions.
 
 Questions are divided into three levels:
 

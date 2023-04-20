@@ -4,7 +4,7 @@
 
 - [中文说明](https://mp.weixin.qq.com/s/DmsoAJZCWEEwUcoWhGFR9w
 )
-- [English Description]()
+- [English Description](https://alexzhang-5109.xlog.app/Using-ChatGPT-to-Create-the-Ultimate-Rust-Learning-Magic-System)
 
 ## Command System Table
 
