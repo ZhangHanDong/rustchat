@@ -3,7 +3,7 @@
 **Develop GPT as a "magic" system for assisting Rust learning.**
 
 - [中文说明](https://mp.weixin.qq.com/s/DmsoAJZCWEEwUcoWhGFR9w
-)
+)，[在线体验](https://ora.sh/uncertain-lime-98ec/delicate-amber-j2ia)
 - [English Description](https://alexzhang-5109.xlog.app/Using-ChatGPT-to-Create-the-Ultimate-Rust-Learning-Magic-System)
 
 ## Command System Table
