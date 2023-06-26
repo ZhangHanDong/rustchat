@@ -2,7 +2,8 @@
 
 
 
-Move to : https://github.com/Illumine-Labs/RustChat
+## Move to : https://github.com/Illumine-Labs/RustChat
+
 
 
 **Develop GPT as a "magic" system for assisting Rust learning.**
